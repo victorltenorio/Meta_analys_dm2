@@ -1,0 +1,35 @@
+estudo,ne,me,sde ,nc,mc,sdc,Filo,Genero,Especie
+(Hsieh et al. 2018) - ADR-1,22,98.43,174.3,21,1.53,1.77,Firmicutes,Lactobacillus,Lactobacillus_reuteri
+(Hsieh et al. 2018) - ADR-1,22,5.47,20.02,21,2.51,3.66,Firmicutes,Lactobacillus,Lactobacillus spp
+(Hsieh et al. 2018) - ADR-1,22,2.21,2.78,21,20.43,81.26,Firmicutes,Clostridium,Clostridium cluster I
+(Hsieh et al. 2018) - ADR-1,22,3441,15649,21,6.28,19.74,Actinobacteria,Bifidobacterium,Bifidobacterium spp
+(Hsieh et al. 2018) - ADR-1,22,7.21,24.39,21,1.42,1.29,Bacteroidetes,Bacteroides,Bacteroides spp
+(Hsieh et al. 2018) - ADR-1,22,81.07,268.2,21,25.84,59.38,Verrucomicrobia,Akkermansia,Akkemansia muciniphila
+(Hsieh et al. 2018) - ADR-3,24,6.23,11.25,21,1.53,1.77,Firmicutes,Lactobacillus,Lactobacillus_reuteri
+(Hsieh et al. 2018) - ADR-3,24,14.53,52.73,21,2.51,3.66,Firmicutes,Lactobacillus,Lactobacillus spp
+(Hsieh et al. 2018) - ADR-3,24,5.57,10.21,21,20.43,81.26,Firmicutes,Clostridium,Clostridium cluster I
+(Hsieh et al. 2018) - ADR-3,24,73.72,156.2,21,6.28,19.74,Actinobacteria,Bifidobacterium,Bifidobacterium spp.
+(Hsieh et al. 2018) - ADR-3,24,2.47,3.53,21,1.42,1.29,Bacteroidetes,Bacteroides,Bacteroides spp
+(Hsieh et al. 2018) - ADR-3,24,170,818.3,21,25.84,59.38,Verrucomicrobia,Akkermansia,Akkemansia muciniphila
+(Sato et al. 2017),34,9.8,0.4,34,9.5,0.6,Firmicutes,Clostridium,C. coccoides group
+(Sato et al. 2017),34,9.8,0.5,34,9.4,0.8,Firmicutes,Clostridium,C. leptum subgroup
+(Sato et al. 2017),34,8.8,0.7,34,8.6,0.6,Bacteroidetes,Bacteroides,Bacteroides fragilis group
+(Sato et al. 2017),34,9.0,1.0,34,9.0,1.1,Actinobacteria,Bifidobacterium,Bifidobacterium spp
+(Sato et al. 2017),34,9.5,0.6,34,9.4,0.8,Actinobacteria,Atopobium,Atopobium cluster
+(Sato et al. 2017),34,8.0,1.6,34,8.3,1.6,Bacteroidetes,Prevotella,Prevotella
+(Sato et al. 2017),34,7.9,1.6,34,7.5,1.2,Verrucomicrobia,Akkermansia,Akkermansia muciniphila
+(Sato et al. 2017),34,3.7,1.2,34,3.6,0.6,Firmicutes,Clostridium,C. difficle
+(Sato et al. 2017),34,4.6,1.1,34,4.6,1.4,Firmicutes,Clostridium,C. perfringens
+(Sato et al. 2017),34,5.6,1.1,34,5.8,1.4,Firmicutes,Lactobacillus,L. gasseri subgroup
+(Sato et al. 2017),34,4.2,1.1,34,4.3,1.4,Firmicutes,Lactobacillus,L. brevis
+(Sato et al. 2017),34,7.4,0.8,34,5.0,1.3,Firmicutes,Lactobacillus,L. casei subgroup
+(Sato et al. 2017),34,6.1,1.1,34,6.7,1.1,Firmicutes,Lactobacillus,L. fermentum
+(Sato et al. 2017),34,4.3,1.0,34,4.5,1.3,Firmicutes,Lactobacillus,L. plantarum subgroup
+(Sato et al. 2017),34,5.3,1.0,34,5.5,1.5,Firmicutes,Lactobacillus,L. reuteri subgroup
+(Sato et al. 2017),34,4.9,2.0,34,5.1,1.9,Firmicutes,Lactobacillus,L. ruminis subgroup
+(Sato et al. 2017),34,4.5,1.8,34,5.4,1.7,Firmicutes,Lactobacillus,L. sakei subgroup
+(Sato et al. 2017),34,7.0,0.9,34,6.9,1.0,Proteobacteria,Enterobacter,Enterobacteriaceae
+(Sato et al. 2017),34,6.5,1.2,34,6.0,1.3,Firmicutes,Enterococcus,Enterococcus
+(Sato et al. 2017),34,8.5,0.8,34,8.4,1.3,Firmicutes,Streptococcus,Streptococcus
+(Sato et al. 2017),34,4.4,0.7,34,4.5,0.9,Firmicutes,Staphylococcus,Staphylococcus
+(Sato et al. 2017),34,4.6,0.7,34,3.9,1.0,Proteobacteria,Pseudomonas,Pseudomonas
